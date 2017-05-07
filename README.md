@@ -8,16 +8,16 @@ Data and analysis code for *Schmälzle, R., O'Donnell, M.B., Garcia, J.O., Casc
 <img align="right" width=250px src=data/explainer_fig.png> 
 
 ### Code
-* The [notebook to reproduce the analysis of the main effect of exclusion](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/Schmaelzle_ConnectivitySociaExclusion.ipynb)
-* The [notebook to reproduce the analysis of the association between social network density and brain connectivity](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/Schmaelzle_ConnectivityDensity.ipynb)
-* The [ notebook](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/notebooks/Schmaelzle_Neurosynth.ipynb) for running the meta-analysis in Neurosynth
+* The [notebook to reproduce the analysis of the main effect of exclusion](https://github.com/nomcomm/BrainConnectivitySocialNetworkPNAS/blob/master/notebooks/Schmaelzle_ConnectivitySociaExclusion.ipynb)
+* The [notebook to reproduce the analysis of the association between social network density and brain connectivity](https://github.com/nomcomm/BrainConnectivitySocialNetworkPNAS/blob/master/notebooks/Schmaelzle_ConnectivityDensity.ipynb)
+* The [ notebook](https://github.com/nomcomm/BrainConnectivitySocialNetworkPNAS/blob/master/notebooks/Schmaelzle_Neurosynth.ipynb) for running the meta-analysis in Neurosynth
 
 
 ### Data
-* [Extracted data matrices for the a-priori-networks](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/connectivity_matrices)
-* [Extracted data matrices for the Power-264-node parcellation](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/connectivity_matrices_264)
-* [Datasheet with the social network density metrics](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/datasheets/pID_social_networks.csv)
-* [Folder with the result maps for the meta-analysis](https://github.com/nomcomm/ConnectivityExclusionSocialNetworkPNAS/blob/master/data/metaanalysis)
+* [Extracted data matrices for the a-priori-networks](https://github.com/nomcomm/BrainConnectivitySocialNetworkPNAS/blob/master/data/connectivity_matrices)
+* [Extracted data matrices for the Power-264-node parcellation](https://github.com/nomcomm/BrainConnectivitySocialNetworkPNAS/blob/master/data/connectivity_matrices_264)
+* [Datasheet with the social network density metrics](https://github.com/nomcomm/BrainConnectivitySocialNetworkPNAS/blob/master/data/datasheets/pID_social_networks.csv)
+* [Folder with the result maps for the meta-analysis](https://github.com/nomcomm/BrainConnectivitySocialNetworkPNAS/blob/master/data/metaanalysis)
 
 
 
